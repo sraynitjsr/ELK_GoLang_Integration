@@ -1,2 +1,1 @@
-# ELK_GoLang_Integration
-ELK Using GoLang
+# ELK Using GoLang
